@@ -1,3 +1,5 @@
+# pcf_situation_sociale
+
 Situation Sociale PCF Component Documentation
 Overview
 The Situation Sociale component is a Power Apps Code Component Framework (PCF) solution designed to track and display social aid status for beneficiaries in the ILEYA application.
@@ -187,4 +189,4 @@ Basic grid display
 Date formatting
 Error handling
 
-# pcf_situation_sociale
+
